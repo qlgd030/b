@@ -36,7 +36,7 @@ public class TestClass {
 
 	@Test
 	public void testBubble(){
-		//从键盘输入数字组成数组
+		//
 		int arr[] = new int[]{4,7,3,9,2,8,5,0,4};
 		
 		BubbleClass buClass = new BubbleClass();
